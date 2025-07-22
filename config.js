@@ -17,3 +17,7 @@ Còn em vừa ngọt, vừa cười là anh tan`,
     messDesc: 'Tối thứ sáu tuần này 18h30 25/6/2025, anh qua đón đi chơi nha.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.facebook.com/baochau10a2' 
+};
+
+export default CONFIG;
+
