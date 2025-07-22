@@ -5,7 +5,7 @@ const CONFIG = {
 Về nhà mới nhớ… thiếu em bên đời.
 Chanh chua nhưng vẫn còn tươi,
 Còn em vừa ngọt, vừa cười là anh tan`,
-    btnIntro: '^^HiHi^^',
+    btnIntro: '^^HiHi^',
     title: 'Phải chăng anh đã yêu ngay từ cái nhìn đầu tiên 🥰',
     desc: 'Phải chăng anh đã say ngay từ lúc thấy nụ cười ấy ',
     btnYes: 'Thích lắm <33',
